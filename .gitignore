@@ -10,9 +10,9 @@ coverage/
 *.tsbuildinfo
 
 # Environment files
-.env
-.env.*
-!.env.example
+# .env
+# .env.*
+# !.env.example
 
 # Logs
 *.log
@@ -22,5 +22,5 @@ yarn-error.log*
 pnpm-debug.log*
 
 # OS files
-.DS_Store
-Thumbs.db
+# .DS_Store
+# Thumbs.db
